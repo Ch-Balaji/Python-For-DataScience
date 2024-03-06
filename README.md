@@ -10,6 +10,15 @@ Welcome to my collection of Jupyter notebooks that cover a wide range of topics 
 
 Each notebook is named sequentially to guide you through your learning journey.
 
+## Tutorial Playlists
+
+For a comprehensive learning experience, follow along with the notebooks while watching the tutorial playlists on YouTube:
+
+- **Python Basics**: [Watch Here](https://www.youtube.com/playlist?list=PL8qeqP57-QAZz8wi1x7toEWzPC_mW5NfO)
+- **NumPy Mastery**: [Watch Here](https://www.youtube.com/playlist?list=PL8qeqP57-QAbNCiNeA3w-9Vl-2_iCbqrS)
+- **Pandas Proficiency**: [Watch Here](https://www.youtube.com/playlist?list=PL8qeqP57-QAZ5ekjIt6F9Z5bBxe8zwbEJ)
+
+
 ## How to Use These Notebooks
 
 1. Install [Jupyter](https://jupyter.org/install) on your machine if you haven’t already.
